@@ -1,0 +1,17 @@
+P_05,P_01,LogFC_2,LogFC_5,Student,Aligner,DE
+23089,20960,0,0,Annika,salmon,limma-voom
+434,217,1394,47,Bethany,bowtie2,DESeq2
+0,0,462,13,Cory_QLF,bowtie2,EdgeR
+306,177,465,13,Cory_ET,bowtie2,EdgeR
+437,243,951,53,Cynthia,BWA,EdgeR
+546,310,361,26,David,BWA,DESeq2
+549,304,429,20,Emilie,kallisto,DESeq2
+2305,1115,536,8,Noah,kallisto,EdgeR
+2336,799,831,11,Irene,kallisto,limma-voom
+19009,17136,12622,2271,Jordan,bowtie2,limma-voom
+3144,1470,1400,77,Naomi,salmon,EdgeR
+515,290,437,30,Taylor,salmon,limma-voom
+0,0,31,1,Zac_contrasts-filtered,BWA,limma-voom
+0,0,95,0,Zac_contrasts-unfiltered,BWA,limma-voom
+20508,0,,,Zac_mean-filtered,BWA,limma-voom
+45442,0,,,Zac_mean-unfiltered,BWA,limma-voom
